@@ -1,3 +1,7 @@
 1 izm
 2 izm
+<<<<<<< HEAD
 3 izm
+=======
+now izm
+>>>>>>> dev3
